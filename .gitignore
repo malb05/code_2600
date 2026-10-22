@@ -14,3 +14,5 @@ data/*.csv
 *.pdf
 example.db
 .DS_Store
+# Oberon (out-of-context telemetry, postmortems, raw blobs)
+.oberon/
